@@ -2,6 +2,7 @@
 void main()
 {int ar[20],n,item,flg=0,i=0;
  
+ printf("\nLinear Search in Array of Elements\n");
  printf("\nEnter the number of elements\n");
  scanf("%d",&n);
  printf("\nEnter the elements!\n");
